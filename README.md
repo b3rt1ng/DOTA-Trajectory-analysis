@@ -34,7 +34,7 @@ in pull request discussion. -->
 
 Because the amount of data is very large, about 250 games were provided, with a ton of movements, we decided to compress the data in order to reduce the size of the data set.
 
-The compression is based on the principle of minimum description length ([MDL](https://en.wikipedia.org/wiki/Minimum_description_length)). This principle consists of finding the most compact representation of the data without losing the relevance of the data. In our case, we will try to find the most compact representation of the trajectories of the players in the game.
+The compression is based on the principle of minimum description length ([MDL](https://en.wikipedia.org/wiki/Minimum_description_length)). This principle consists of finding the most compact representation of the data without losing it's relevance. In our case, we will try to find the most compact representation of the trajectories of the players in the game.
 
 You can refer to the [compression pipeline](https://github.com/b3rt1ng/DOTA-Trajectory-analysis/blob/main/compression_clustering/src/compressionPipe.cpp) for more details.
 
