@@ -3,7 +3,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/871/871499.png" align="right"
      alt="Logo DOTA" width="100" height="100">
 
-This is a university project, carried out in the context of a scientific themed project.
+This is a university work, carried out in the context of a scientific themed project.
 The goal is to analyse a series of movements in order to detect strategies and repetitive parterns in serval dota games. 
 
 In this README, you will find a brief description of the project with some of our final thoughts and results but if you want to know more details, and more in depth explanations about our implementation and calculations, you can refer to the [report](https://github.com/b3rt1ng/DOTA-Trajectory-analysis/blob/main/Rapport_projet_dota-1.pdf) wich is in french.
