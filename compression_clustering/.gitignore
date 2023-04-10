@@ -1,0 +1,12 @@
+games_to_run
+obj/*
+bin/*
+vgcore.*
+vscode
+coordinates/*
+mdl_trajectories/*
+mdl_trajectories_old/*
+clustering_results/*
+clustering_results_old/*
+../hello
+experiments_results_old

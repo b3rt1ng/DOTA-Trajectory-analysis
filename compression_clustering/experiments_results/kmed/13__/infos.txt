@@ -1,0 +1,9 @@
+method: kmedoid
+nb_clusters: 100
+nb_iterations: 100
+nb_games: 8
+angle_factor: 4
+perpendicular_factor: 1
+parallel_factor: 4
+start_id: 0
+end_id: 5

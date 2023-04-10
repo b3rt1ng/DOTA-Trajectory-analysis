@@ -1,0 +1,9 @@
+method: kmeans
+nb_clusters: 150
+nb_iterations: 100
+nb_games: 8
+angle_factor: 5
+perpendicular_factor: 5
+parallel_factor: 1
+start_id: 0
+end_id: 5

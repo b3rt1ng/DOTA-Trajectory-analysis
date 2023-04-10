@@ -1,0 +1,9 @@
+method: propa
+nb_clusters: 0
+nb_iterations: 60
+nb_games: 2
+angle_factor: 1
+perpendicular_factor: 2
+parallel_factor: 1
+start_id: 0
+end_id: 5

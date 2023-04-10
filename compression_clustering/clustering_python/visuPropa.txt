@@ -1,0 +1,12 @@
+for i in a.clusters:
+        hexa = "#"
+        for _ in range(6):
+            hexa += random.choice("0123456789ABCDEF")
+
+        for segment in a.clusters[i]:
+            plt.plot([segment.get_p1().get_x(), segment.get_p2().get_x()], [segment.get_p1().get_y(), segment.get_p2().get_y()], linestyle="-", color=hexa)
+
+        #plt.plot([centroids[i].get_p1().get_x(), centroids[i].get_p2().get_x()], [centroids[i].get_p1().get_y(), centroids[i].get_p2().get_y()], 'bo', linestyle="-", color=hexa, linewidth=1.0)
+
+
+plt.show()
