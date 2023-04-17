@@ -125,7 +125,7 @@ Considering the results obtained, it appeared that it was quite relevant to use 
 
 # addendum
 
-We sketeched our algorithm in python before implementing it in C++, here are or take on those implementations:
+We sketeched our algorithm in python before implementing it in C++, here are our take on those implementations:
 
 
 
